@@ -39,7 +39,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Introduction:
+    title: Introduction
     summary: |
       Current Software Engineering student at Canterbury Christ Church University 
       with a strong interest in computing and old cars. My spare time is usually 
@@ -48,7 +48,7 @@ career-profile:
       through YouTube videos. I am a quick learner and am adaptable to different 
       scenarios or roles.
 education:
-    title: Education:
+    title: Education
     info:
       - degree: BEng Software Engineering
         university: Canterbury Christ Church University
