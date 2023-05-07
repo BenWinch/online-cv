@@ -1,5 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
+theme: orbit
+
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
